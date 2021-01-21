@@ -1,0 +1,8 @@
+{
+  "env": "development",
+
+  // you can use any of cloud-based or local mongo servers
+  // like https://mlab.com/
+  "db.dsn": "mongodb+srv://abhinav:Madithya1@mreccluster.8dyht.mongodb.net/test?retryWrites=true&w=majority",
+  "db.database": "test"
+}
